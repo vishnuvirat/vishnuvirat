@@ -37,4 +37,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuvirat&" alt="vishnuvirat" /></p>
 <h1 align="center">My Badges 😎</h1>
 
-<p>[![@vishnu111's Holopin board](https://holopin.me/vishnu111)](https://holopin.io/@vishnu111)</p>
+[![@vishnu111's Holopin board](https://holopin.me/vishnu111)](https://holopin.io/@vishnu111)
